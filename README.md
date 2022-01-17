@@ -1,5 +1,6 @@
 # scroll_bar
 chrome(other chromium based) sroll bar stylish
+基于chromium浏览器的滚动条样式，安装方式：stylish/stylus，应用于：所有页面
 
 # preview
 ### horizon:  
